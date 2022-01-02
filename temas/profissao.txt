@@ -1,0 +1,25 @@
+analista
+bailarina
+carteiro
+designer
+enfermeira
+frentista
+garçom
+historiador
+inspetor
+jardineiro
+karateka
+lixeiro
+motorista
+navegador
+ortopedista
+professor
+quadrinista
+repórter
+segurança
+toureiro
+ufologista
+vaqueiro
+xilógrafo
+web Master
+zagueiro
